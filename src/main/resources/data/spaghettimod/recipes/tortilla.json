@@ -1,0 +1,19 @@
+{
+  "type": "minecraft:crafting_shaped",
+  "pattern": [
+    "###",
+    "EEE"
+  ],
+  "key": {
+    "#": {
+      "item": "minecraft:baked_potato"
+    },
+    "E": {
+      "item": "minecraft:egg"
+    }
+  },
+  "result": {
+    "item": "spaghettimod:tortilla",
+    "count": 1
+  }
+}

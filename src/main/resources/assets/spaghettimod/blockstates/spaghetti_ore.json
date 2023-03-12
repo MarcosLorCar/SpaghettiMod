@@ -1,0 +1,16 @@
+{
+  "variants" : {
+    "forking_stage=0" : {
+      "model" : "spaghettimod:block/spaghetti_ore"
+    },
+    "forking_stage=1" : {
+      "model" : "spaghettimod:block/spaghetti_ore_forking1"
+    },
+    "forking_stage=2" : {
+      "model" : "spaghettimod:block/spaghetti_ore_forking2"
+    },
+    "forking_stage=3" : {
+      "model" : "spaghettimod:block/spaghetti_ore_forking3"
+    }
+  }
+}

@@ -1,0 +1,22 @@
+{
+  "variants": {
+    "sauce_level=0" : {
+      "model": "spaghettimod:block/cooking_pot_stage0"
+    },
+    "sauce_level=1" : {
+      "model": "spaghettimod:block/cooking_pot_stage1"
+    },
+    "sauce_level=2" : {
+      "model": "spaghettimod:block/cooking_pot_stage2"
+    },
+    "sauce_level=3" : {
+      "model": "spaghettimod:block/cooking_pot_stage3"
+    },
+    "sauce_level=4" : {
+      "model": "spaghettimod:block/cooking_pot_stage4"
+    },
+    "sauce_level=5" : {
+      "model": "spaghettimod:block/cooking_pot_stage5"
+    }
+  }
+}

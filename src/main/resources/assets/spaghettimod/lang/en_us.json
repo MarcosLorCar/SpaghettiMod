@@ -1,0 +1,16 @@
+{
+  "item.spaghettimod.spaghetti_bowl" : "Spaghetti Bowl",
+  "item.spaghettimod.tomato_seeds" : "Tomato seeds",
+  "item.spaghettimod.tomato" : "Tomato",
+  "item.spaghettimod.spaghetti_fork" : "Automatic Fork",
+  "item.spaghettimod.spaghetti" : "Spaghetti",
+  "item.spaghettimod.spaghetti_bowl_sauced" : "Spaghetti bowl sauced",
+  "item.spaghettimod.meatballs" : "Meatballs",
+  "item.spaghettimod.tortilla" : "Tortilla",
+
+
+  "block.spaghettimod.spaghetti_ore" : "Spaghetti Ore",
+  "block.spaghettimod.spaghetti_block" : "Spaghetti Block",
+  "block.spaghettimod.tomato_crop" : "Tomato Crop",
+  "block.spaghettimod.cooking_pot" : "Cooking pot"
+}

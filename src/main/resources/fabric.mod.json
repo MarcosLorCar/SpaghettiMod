@@ -1,0 +1,33 @@
+{
+  "schemaVersion": 1,
+  "id": "spaghettimod",
+  "version": "${version}",
+  "name": "SpaghettiMod",
+  "description": "Spaghetti update mod",
+  "authors": [
+    "Orange03"
+  ],
+  "contact": {},
+  "license": "MIT",
+  "icon": "assets/spaghettimod/icon.png",
+  "environment": "*",
+  "entrypoints": {
+    "client": [
+      "me.orange.spaghettimod.client.SpaghettimodClient"
+    ],
+    "main": [
+      "me.orange.spaghettimod.Spaghettimod"
+    ],
+    "fabric-datagen": [
+      "me.orange.spaghettimod.datagen.ModDataGeneration"
+    ]
+  },
+  "mixins": [
+    "spaghettimod.mixins.json"
+  ],
+  "depends": {
+    "fabricloader": ">=0.14.13",
+    "fabric": "*",
+    "minecraft": "1.19.3"
+  }
+}

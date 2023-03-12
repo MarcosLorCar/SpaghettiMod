@@ -1,0 +1,6 @@
+{
+  "parent" : "block/cube_all",
+  "textures" : {
+    "all" : "spaghettimod:block/spaghetti_ore_forking2"
+  }
+}
